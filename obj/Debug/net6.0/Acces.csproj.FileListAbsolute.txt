@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\bin\Debug\net6.0\Acces.exe
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\bin\Debug\net6.0\Acces.deps.json
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\bin\Debug\net6.0\Acces.runtimeconfig.json
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\bin\Debug\net6.0\Acces.dll
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\bin\Debug\net6.0\Acces.pdb
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.dll
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\refint\Acces.dll
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.pdb
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\Acces.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Documents\github_jafar\Acces\obj\Debug\net6.0\ref\Acces.dll
